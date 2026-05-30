@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Wine background matching the restaurant's primary brand color (#600f0c) -->
+  <rect width="100" height="100" rx="24" fill="#600f0c"/>
+  <!-- Organic-looking egg white representing fresh, home-cooked food (#faf3db) -->
+  <path d="M50 20 C28 20, 20 34, 20 50 C20 68, 32 80, 50 80 C70 80, 80 66, 80 50 C80 32, 70 20, 50 20 Z" fill="#faf3db"/>
+  <!-- Red heart representing both the egg yolk ("Gema") and grandma's affection ("Vó") (#600f0c) -->
+  <path d="M50 38 C50 38 45 31 38 31 C31 31 27 36 27 43 C27 52 40 62 50 69 C60 62 73 52 73 43 C73 36 69 31 62 31 C55 31 50 38 50 38 Z" fill="#600f0c"/>
+</svg>
